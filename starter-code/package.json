@@ -1,0 +1,23 @@
+{
+  "name": "starter-code",
+  "version": "1.0.0",
+  "description": "lab 7 to build server with node js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/owy1/07-node-npm.git)"
+  },
+  "keywords": [
+    "article",
+    "articlView"
+  ],
+  "author": "ophelia",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
